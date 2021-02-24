@@ -12,7 +12,7 @@ This bot finds the best configuration of badges given the number of grey badges 
 ## Differences between this bot and pipermatt's bot
 The main difference is that my bot takes into account the number of equipments. It becomes useful if you want to equip a badge on 6 items instead of 8 for example...
 
-|               | Siropalafraise's bot  | pipermatt's bot |
+|               | Siropalafraise's bot  | [pipermatt's bot](https://github.com/pipermatt/badgebot) |
 | :-- | :-: | :-: |
 | Language  | Python  | Javascript  |
 | Best configuration  | :heavy_check_mark:  | :heavy_check_mark:  |
