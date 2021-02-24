@@ -10,7 +10,7 @@ This bot finds the best configuration of badges given the number of grey badges 
 * This bot also replies to DMs
 
 ## Differences between this bot and pipermatt's bot
-The main difference is that my bot takes into account the number of equipments if, for any reason, you want to equip a badge on 6 items for example...
+The main difference is that my bot takes into account the number of equipments. It becomes useful if, for any reason, you want to equip a badge on 6 items for example, instead of 8...
 
 |               | Siropalafraise's bot  | pipermatt's bot |
 | :-- | :-: | :-: |
