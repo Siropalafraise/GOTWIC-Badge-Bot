@@ -3,7 +3,7 @@ This bot finds the best configuration of badges given the number of grey badges 
 
 ## Commands
 * ``!badges help`` - returns instructions (syntax and example)
-* ``!badges X Y`` - returns the best configuration of badges based on your total number of grey badges and the number of equipments that you want them to be equipped on (maximum 8)
+* ``!badges X Y`` - returns the best configuration of badges based on your total number of grey badges X and the number of equipments that you want them to be equipped on Y (maximum 8)
 
 ## Installation
 * [Click here](https://discord.com/api/oauth2/authorize?client_id=812358480392224778&permissions=11264&scope=bot) to add this bot to your Discord server
