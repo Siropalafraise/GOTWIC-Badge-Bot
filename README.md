@@ -10,7 +10,7 @@ This bot finds the best configuration of badges given the number of grey badges 
 * This bot also replies to DMs
 
 ## Differences between this bot and [pipermatt's bot](https://github.com/pipermatt/badgebot)
-The main difference is that my bot takes into account the number of equipments. It becomes useful if you want to equip a badge on 6 items instead of 8, for example if you want to equip special badges from events. It also tells you if you can have the same bonus with fewer equipments, for example !badges 352 8 give the same bonus as !badges 352 7.
+The main difference is that my bot takes into account the number of equipments. It becomes useful if you want to equip a badge on 6 items instead of 8, for example if you want to equip special badges from events. It also tells you if you can have the same bonus with fewer equipments, for example !badges 352 8 gives the same bonus as !badges 352 7.
 
 |               | Siropalafraise's bot  | [pipermatt's bot](https://github.com/pipermatt/badgebot) |
 | :-- | :-: | :-: |
