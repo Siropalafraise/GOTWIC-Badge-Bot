@@ -16,7 +16,7 @@ The main difference is that my bot takes into account the number of equipments. 
 | :-- | :-: | :-: |
 | Language  | Python  | Javascript  |
 | Best configuration  | :heavy_check_mark:  | :heavy_check_mark:  |
-| Number of equipments  | :heavy_check_mark:  | :x:  |
+| Equipment optimization  | :heavy_check_mark:  | :x:  |
 | Total bonus  | :heavy_check_mark:  | :heavy_check_mark:  |
 | Next upgrade  | :heavy_check_mark:  | :heavy_check_mark:  |
 | DMs  | :heavy_check_mark:  | :heavy_check_mark:  |
