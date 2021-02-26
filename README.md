@@ -32,4 +32,4 @@ There are 2 main differences:
 | DMs  | :heavy_check_mark:  | :heavy_check_mark:  |
 
 ## Contact
-For any idea, suggestion, fix, etc., please contact me on Discord: Siropalafraise#3862
+For any idea, suggestion, fix, etc., please contact me on Discord (Siropalafraise#3862) or in the game (Sirop)
