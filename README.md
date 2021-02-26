@@ -1,5 +1,5 @@
 # GOTWIC Badge Bot
-This bot finds the best configuration of badges given the number of grey badges that you have in your inventory and the number of equipments that you want them to be equipped on (maximum 8). It works with normal badges and with special badges from events like UC, SOW, CCS and KVK, and any other badges that will be introduced in the future.
+This bot finds the best configuration of badges given the number of grey badges that you have in your inventory and the number of equipments that you want them to be equipped on (maximum 8). It works with normal badges and special badges from events like UC, SOW, CCS and KVK, and any other badges that will be introduced in the future.
 
 ## Commands
 * ``!badges help`` - returns instructions (syntax and example)
