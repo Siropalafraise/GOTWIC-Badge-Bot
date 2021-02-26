@@ -18,8 +18,8 @@ This bot finds the best configuration of badges given the number of grey badges 
 
 ## Differences between this bot and [pipermatt's bot](https://github.com/pipermatt/badgebot)
 There are 2 main differences:
-1. My bot takes into account the number of equipments. It becomes useful if you want to equip a badge on 6 items instead of 8, for example if you want to keep some slots for special badges from events. It also tells you if you can have the same bonus with fewer equipments, for example !badges 352 8 gives the same bonus as !badges 352 7 giving you 1 free slot for any other badge.
-2. My bot can work with special badges from events like the Crest of Protection badge from UC, the Crest of Vigor badge from SOW, the war badges from CCS and KVK, and any other badges that will be introduced in the future.
+1. This bot takes into account the number of equipments. It becomes useful if you want to equip a badge on 6 items instead of 8, for example if you want to keep some slots for special badges from events. It also tells you if you can have the same bonus with fewer equipments, for example !badges 352 8 gives the same bonus as !badges 352 7 giving you 1 free slot for any other badge.
+2. This bot can work with special badges from events like the Crest of Protection badge from UC, the Crest of Vigor badge from SOW, the war badges from CCS and KVK, and any other badges that will be introduced in the future.
 
 |               | Siropalafraise's bot  | [pipermatt's bot](https://github.com/pipermatt/badgebot) |
 | :-- | :-: | :-: |
