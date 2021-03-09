@@ -4,7 +4,7 @@ This bot finds the best configuration of badges given the number of grey badges 
 ## Commands
 * ``!badges help`` - returns instructions (syntax and example)
 * ``!badges X Y`` - returns the best configuration of badges based on your total number of grey badges X and the number of equipments that you want them to be equipped on Y
-* ``!badges X Y a b c d e`` - returns the best configuration of badges based on your total number of grey badges X and the number of equipments that you want them to be equipped on Y and the different bonuses given by the badges: a, b, c, d, e are respectively the bonus given by grey badges, green badges, blue badges, purple badges, gold badges
+* ``!badges X Y A B C D E`` - returns the best configuration of badges based on your total number of grey badges X and the number of equipments that you want them to be equipped on Y and the different bonuses given by the badges: A, B, C, D, E are respectively the bonus given by grey badges, green badges, blue badges, purple badges, gold badges
 
 ## Examples
 * ``!badges help`` - returns the instructions (syntax and example)
